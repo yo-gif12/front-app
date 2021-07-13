@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/front-app.git/static/css/main.8f036514.chunk.css",
+    "main.js": "/front-app.git/static/js/main.fcfd40f0.chunk.js",
+    "main.js.map": "/front-app.git/static/js/main.fcfd40f0.chunk.js.map",
+    "runtime-main.js": "/front-app.git/static/js/runtime-main.e4bec750.js",
+    "runtime-main.js.map": "/front-app.git/static/js/runtime-main.e4bec750.js.map",
+    "static/js/2.342be06b.chunk.js": "/front-app.git/static/js/2.342be06b.chunk.js",
+    "static/js/2.342be06b.chunk.js.map": "/front-app.git/static/js/2.342be06b.chunk.js.map",
+    "static/js/3.ebed39b1.chunk.js": "/front-app.git/static/js/3.ebed39b1.chunk.js",
+    "static/js/3.ebed39b1.chunk.js.map": "/front-app.git/static/js/3.ebed39b1.chunk.js.map",
+    "index.html": "/front-app.git/index.html",
+    "static/css/main.8f036514.chunk.css.map": "/front-app.git/static/css/main.8f036514.chunk.css.map",
+    "static/js/2.342be06b.chunk.js.LICENSE.txt": "/front-app.git/static/js/2.342be06b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/front-app.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4bec750.js",
+    "static/js/2.342be06b.chunk.js",
+    "static/css/main.8f036514.chunk.css",
+    "static/js/main.fcfd40f0.chunk.js"
+  ]
+}
